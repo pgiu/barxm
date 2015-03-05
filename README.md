@@ -1,5 +1,5 @@
 # barx
-**barx** (**b**ancos **ar**gentinos e**x**porter) es un exportador de información del estado de cuenta de Banco Galicia a CSV/QIF para usar en MoneyManagerEx, GnuCash, etc.
+**barx** (**b**ancos **ar**gentinos e**x**porter **m**aven) es un exportador de información del estado de cuenta de Banco Galicia a CSV/QIF para usar en MoneyManagerEx, GnuCash, etc.
 
 # Objetivo y motivación
 **barx** es un parser para la información que da el Banco Galicia en su servicio de Home Banking.
@@ -24,7 +24,6 @@ Por ahora funciona de la siguiente manera:
 	java -jar GaliciaReader.jar Resumen2015.htm  output.csv
 (*nota* puede que haya errores o warnings, ignorarlos)
 - Importar output.csv en MoneyManagerEx usando la opción Formato MMEX y fecha en formato DD-MM-YYYY
-
 
 
 # Disclaimer
