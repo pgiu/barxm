@@ -1,6 +1,8 @@
 # barx
 **barx** (**b**ancos **ar**gentinos e**x**porter **m**aven) es un exportador de información del estado de cuenta de Banco Galicia a CSV/QIF para usar en MoneyManagerEx, GnuCash, etc.
 
+[![Build Status](https://travis-ci.org/pgiu/barxm.svg?branch=master)](https://travis-ci.org/pgiu/barxm)
+
 # Objetivo y motivación
 **barx** es un parser para la información que da el Banco Galicia en su servicio de Home Banking.
 La intención es escribir un código que pueda ser capaz de: 
